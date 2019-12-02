@@ -4,3 +4,4 @@ ganas de verano
 vacaciones de fin de año
 vacaciones de diciembre
 incidencia en registro de vacaciones
+corregido error vacaciones de diciembre
