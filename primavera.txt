@@ -2,3 +2,7 @@ soleado y alergias
 tiempo de otoño
 ganas de verano
 vacaciones de diciembre
+vacaciones de fin de año
+vacaciones de diciembre
+incidencia en registro de vacaciones
+corregido error vacaciones de diciembre
